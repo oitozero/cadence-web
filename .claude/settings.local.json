@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /Users/pedro/Desktop/cadence/web/ 2>/dev/null && echo \"---\" && ls -la /Users/pedro/Desktop/cadence/app/build/icons/ 2>/dev/null)"
+    ]
+  }
+}

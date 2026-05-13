@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Idle tray glyph: Cadence "C" in brand purple on a transparent
+  background. NOT a template image — keeps the literal purple so it
+  reads as the brand mark regardless of menu-bar appearance.
+-->
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <path d="M83.78 65.58C52.10 97.26 52.10 148.52 83.78 180.20C115.46 211.88 166.72 211.88 198.40 180.20L140.98 122.78L198.40 65.58C166.72 33.90 115.46 33.90 83.78 65.58"
+        fill="#5E6AD2"/>
+</svg>
