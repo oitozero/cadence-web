@@ -208,6 +208,19 @@ p {
   font-size: 14px;
 }
 
+.cta__note {
+  margin: 18px auto 0;
+  max-width: 440px;
+  color: var(--muted-2);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.cta__note em {
+  font-style: normal;
+  color: var(--muted);
+}
+
 /* ---------- Feature rows ---------- */
 
 .feature {
